@@ -1,4 +1,5 @@
 {
+  "name": "haolam-dashboard",
   "private": true,
   "scripts": {
     "dev": "next dev",
